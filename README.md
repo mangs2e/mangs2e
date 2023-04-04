@@ -8,12 +8,9 @@
 #
 
 
-<table>
-<td>
+
 ![mangs2e's Github stats](https://github-readme-stats.vercel.app/api?username=mangs2e&show_icons=true&theme=radical)
-</td>
-<td>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangs2e)](https://solved.ac/mangs2e)
-</td>
-<table>
+
 
