@@ -29,6 +29,7 @@
 	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
 	<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 	<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens">
+	<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
 	<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white">
